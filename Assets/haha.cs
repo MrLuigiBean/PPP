@@ -7,7 +7,6 @@ public class haha : MonoBehaviour
 {
     [SerializeField] private Camera playerCamera;
     [SerializeField] private TextMeshPro text;
-    public UniversalRendererData yes;
 
     void Update()
     {
